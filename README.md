@@ -1,4 +1,6 @@
-# New York Times React Scrubber
+# New York Times Article Scrubber
+
+Deployed Link: https://still-chamber-35092.herokuapp.com/ 
 
 ![img](https://i.gyazo.com/9161565370d3f205167e69914890daa3.png)
 
