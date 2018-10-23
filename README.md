@@ -1,2 +1,0 @@
-# NYTReactSearch
-NYTimes React Scrubber!
