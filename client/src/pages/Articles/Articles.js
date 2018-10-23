@@ -113,13 +113,13 @@ class Articles extends Component {
                 value={this.state.startdate}
                 onChange={this.handleInputChange}
                 name="startdate"
-                placeholder="Start Year"
+                placeholder="Start Year (YYYYMMDD format)"
               />
               <TextArea
                 value={this.state.enddate}
                 onChange={this.handleInputChange}
                 name="enddate"
-                placeholder="End Year"
+                placeholder="End Year  (YYYYMMDD format)"
               />
               <FormBtn
                 disabled={!(this.state.startdate && this.state.enddate && this.state.title)}
